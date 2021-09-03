@@ -1,0 +1,13 @@
+D:\WorkSpaceDotNet\DIOFLIX\bin\Debug\netcoreapp3.1\DIOFLIX.exe
+D:\WorkSpaceDotNet\DIOFLIX\bin\Debug\netcoreapp3.1\DIOFLIX.deps.json
+D:\WorkSpaceDotNet\DIOFLIX\bin\Debug\netcoreapp3.1\DIOFLIX.runtimeconfig.json
+D:\WorkSpaceDotNet\DIOFLIX\bin\Debug\netcoreapp3.1\DIOFLIX.runtimeconfig.dev.json
+D:\WorkSpaceDotNet\DIOFLIX\bin\Debug\netcoreapp3.1\DIOFLIX.dll
+D:\WorkSpaceDotNet\DIOFLIX\bin\Debug\netcoreapp3.1\DIOFLIX.pdb
+D:\WorkSpaceDotNet\DIOFLIX\obj\Debug\netcoreapp3.1\DIOFLIX.csprojAssemblyReference.cache
+D:\WorkSpaceDotNet\DIOFLIX\obj\Debug\netcoreapp3.1\DIOFLIX.AssemblyInfoInputs.cache
+D:\WorkSpaceDotNet\DIOFLIX\obj\Debug\netcoreapp3.1\DIOFLIX.AssemblyInfo.cs
+D:\WorkSpaceDotNet\DIOFLIX\obj\Debug\netcoreapp3.1\DIOFLIX.csproj.CoreCompileInputs.cache
+D:\WorkSpaceDotNet\DIOFLIX\obj\Debug\netcoreapp3.1\DIOFLIX.dll
+D:\WorkSpaceDotNet\DIOFLIX\obj\Debug\netcoreapp3.1\DIOFLIX.pdb
+D:\WorkSpaceDotNet\DIOFLIX\obj\Debug\netcoreapp3.1\DIOFLIX.genruntimeconfig.cache
